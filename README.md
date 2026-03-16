@@ -32,8 +32,9 @@ Built for the GTA V community — but works for any GoldHEN plugin.
 ## How to use
 
 **1. Connect**
+
 <p align="center">
-  <img src="assets/connect.png" width="600"/>
+  <img src="assets/connected.png" width="600"/>
 </p>
 
 - Enter your PS4 IP address (find it in PS4 Settings → Network)
@@ -43,6 +44,7 @@ Built for the GTA V community — but works for any GoldHEN plugin.
 ---
 
 **2. Install Plugin**
+
 <p align="center">
   <img src="assets/install.png" width="600"/>
 </p>
@@ -61,6 +63,10 @@ Restart your PS4 game and your plugin will be active.
 ---
 
 ## Plugin Configuration
+
+<p align="center">
+  <img src="assets/config.png" width="600"/>
+</p>
 
 The installer automatically:
 - Uploads your `.prx` file to `/data/GoldHEN/plugins/`
