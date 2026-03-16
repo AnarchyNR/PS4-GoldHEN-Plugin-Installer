@@ -1,11 +1,11 @@
 # PS4 GoldHEN Plugin Installer
 
+A clean and simple Windows tool for installing PS4 plugins over FTP via GoldHEN.
+Built for the GTA V community — but works for any GoldHEN plugin.
+
 <p align="center">
   <img src="assets/connect.png" width="700"/>
 </p>
-
-A clean and simple Windows tool for installing PS4 plugins over FTP via GoldHEN.
-Built for the GTA V community — but works for any GoldHEN plugin.
 
 ---
 
